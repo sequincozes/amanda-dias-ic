@@ -5,3 +5,4 @@ __pycache__/
 .vscode/
 resultados/*
 !resultados/.gitkeep
+dev-docs/
